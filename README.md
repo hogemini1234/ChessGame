@@ -1,11 +1,4 @@
 # Chess
-
-#   ____ _                      ____                      
-#  / ___| |__   ___  ___ ___   / ___| __ _ _ __ ___   ___ 
-# | |   | '_ \ / _ \/ __/ __| | |  _ / _` | '_ ` _ \ / _ \
-# | |___| | | |  __/\__ \__ \ | |_| | (_| | | | | | |  __/
-#  \____|_| |_|\___||___/___/  \____|\__,_|_| |_| |_|\___|
-
 A four-player chess game playable in any browser using jQuery and websockets.
 
 loc is a 2D array that contains the coordinates of each box.
